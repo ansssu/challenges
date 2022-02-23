@@ -1,0 +1,15 @@
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\WhoLikesIt.exe
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\WhoLikesIt.deps.json
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\WhoLikesIt.runtimeconfig.json
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\WhoLikesIt.dll
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\ref\WhoLikesIt.dll
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\bin\Debug\net6.0\WhoLikesIt.pdb
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.csproj.AssemblyReference.cache
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.AssemblyInfoInputs.cache
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.AssemblyInfo.cs
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.dll
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\ref\WhoLikesIt.dll
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.pdb
+C:\Users\Anderson Ribeiro\projects\challenges\csharp\WhoLikesIt\src\WhoLikesIt\obj\Debug\net6.0\WhoLikesIt.genruntimeconfig.cache
