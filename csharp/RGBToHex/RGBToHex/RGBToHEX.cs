@@ -8,27 +8,10 @@ namespace RGBToHex
 {
     public class RGBToHEX
     {
-
         public string Rgb(int r, int g, int b)
         {
-            return $"{FixNumber(r):X2}{FixNumber(g):X2}{FixNumber(b):X2}";
+            Func<int, string> f = x => (x < 0 ? 0 : x > 255 ? 255 : x).ToString("X2");
+            return $"{f(r)}{f(g)}{f(b)}";
         }
-
-        int FixNumber(int number)
-        {
-            if (number > 255)
-            {
-                return 255;
-            }
-            else if ( number <0 )
-            {
-                return 0;
-            }
-
-            return number;
-        }
-
-
-
     }
 }
