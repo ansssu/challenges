@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBToHex", "RGBToHex\RGBToHex.csproj", "{E44378D2-6B26-49A9-9250-092EA5EC2E15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{35312B43-D171-4242-98B0-F90AE8B63DB6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBToHexTest", "RGBToHexTest\RGBToHexTest.csproj", "{888DB404-E9C5-4827-87DE-A4DF056B5E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44378D2-6B26-49A9-9250-092EA5EC2E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44378D2-6B26-49A9-9250-092EA5EC2E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44378D2-6B26-49A9-9250-092EA5EC2E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44378D2-6B26-49A9-9250-092EA5EC2E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888DB404-E9C5-4827-87DE-A4DF056B5E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888DB404-E9C5-4827-87DE-A4DF056B5E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888DB404-E9C5-4827-87DE-A4DF056B5E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888DB404-E9C5-4827-87DE-A4DF056B5E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F2469C-4680-4F27-8EE4-ED5164690358}
+	EndGlobalSection
+EndGlobal
