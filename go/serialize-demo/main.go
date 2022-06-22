@@ -5,6 +5,8 @@ import (
 	"encoding/gob"
 	"encoding/json"
 	"fmt"
+
+	"github.com/vmihailenco/msgpack/v5"
 )
 
 type Girl struct {
@@ -63,5 +65,16 @@ func main() {
 		fmt.Println(g3decoded)
 	} else {
 		fmt.Println(err)
+	}
+
+	//using msgpack
+	g5 := Girl{"Satori", 16, "F", "Oriental spirit ball", false}
+	if ret, err := msgpack.Marshal(g5); err != nil {
+		fmt.Println(err)
+	} else {
+		fmt.Println("**********************")
+		fmt.Println("Encode with msgpack")
+		fmt.Println("**********************")
+		fmt.Println(ret)
 	}
 }
