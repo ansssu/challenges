@@ -1,0 +1,26 @@
+goos: linux
+goarch: amd64
+pkg: github.com/andersonlribeiro/challenges/go/benchmark-demo
+cpu: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+BenchmarkPrimeNumbers/input_size_100-16         	 1573074	       737.4 ns/op
+BenchmarkPrimeNumbers/input_size_100-16         	 1553289	       731.1 ns/op
+BenchmarkPrimeNumbers/input_size_100-16         	 1554406	       808.9 ns/op
+BenchmarkPrimeNumbers/input_size_100-16         	 1591849	       723.4 ns/op
+BenchmarkPrimeNumbers/input_size_100-16         	 1610317	       724.7 ns/op
+BenchmarkPrimeNumbers/input_size_1000-16        	   85212	     12784 ns/op
+BenchmarkPrimeNumbers/input_size_1000-16        	   82402	     12865 ns/op
+BenchmarkPrimeNumbers/input_size_1000-16        	   85569	     12723 ns/op
+BenchmarkPrimeNumbers/input_size_1000-16        	   85095	     12707 ns/op
+BenchmarkPrimeNumbers/input_size_1000-16        	   87482	     12781 ns/op
+BenchmarkPrimeNumbers/input_size_74382-16       	     250	   4580233 ns/op
+BenchmarkPrimeNumbers/input_size_74382-16       	     256	   4572040 ns/op
+BenchmarkPrimeNumbers/input_size_74382-16       	     254	   4549043 ns/op
+BenchmarkPrimeNumbers/input_size_74382-16       	     255	   4583381 ns/op
+BenchmarkPrimeNumbers/input_size_74382-16       	     255	   4558006 ns/op
+BenchmarkPrimeNumbers/input_size_382399-16      	      24	  43767162 ns/op
+BenchmarkPrimeNumbers/input_size_382399-16      	      25	  43702210 ns/op
+BenchmarkPrimeNumbers/input_size_382399-16      	      24	  43656016 ns/op
+BenchmarkPrimeNumbers/input_size_382399-16      	      25	  43836459 ns/op
+BenchmarkPrimeNumbers/input_size_382399-16      	      25	  43516347 ns/op
+PASS
+ok  	github.com/andersonlribeiro/challenges/go/benchmark-demo	29.707s
