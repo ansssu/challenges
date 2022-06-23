@@ -1,0 +1,26 @@
+goos: linux
+goarch: amd64
+pkg: github.com/andersonlribeiro/challenges/go/string-builder-demo
+cpu: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+BenchmarkSimpleJoin/input_[Hello___From___Mars]-16         	1000000000	         0.0000012 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Mars]-16         	1000000000	         0.0000012 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Mars]-16         	1000000000	         0.0000014 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Mars]-16         	1000000000	         0.0000016 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Mars]-16         	1000000000	         0.0000020 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Venus]-16        	1000000000	         0.0000013 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Venus]-16        	1000000000	         0.0000017 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Venus]-16        	1000000000	         0.0000014 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Venus]-16        	1000000000	         0.0000016 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Venus]-16        	1000000000	         0.0000014 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Earth]-16        	1000000000	         0.0000010 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Earth]-16        	1000000000	         0.0000021 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Earth]-16        	1000000000	         0.0000012 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Earth]-16        	1000000000	         0.0000012 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Earth]-16        	1000000000	         0.0000010 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Saturn]-16       	1000000000	         0.0000021 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Saturn]-16       	1000000000	         0.0000014 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Saturn]-16       	1000000000	         0.0000017 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Saturn]-16       	1000000000	         0.0000011 ns/op
+BenchmarkSimpleJoin/input_[Hello___From___Saturn]-16       	1000000000	         0.0000022 ns/op
+PASS
+ok  	github.com/andersonlribeiro/challenges/go/string-builder-demo	0.048s
