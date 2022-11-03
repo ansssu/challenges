@@ -22,7 +22,6 @@ func main() {
 	if rType.Kind() == reflect.Struct {
 		for i := 0; i < rType.NumField(); i++ {
 			if strings.EqualFold(rType.Field(i).Tag.Get("mapstructure"), "retek_create") {
-				fmt.Println("ok")
 				prop := rValue.Field(i)
 				cfg := prop.Interface().(SQSConf)
 				fmt.Println(cfg.Queue)
